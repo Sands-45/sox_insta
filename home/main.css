@@ -1,0 +1,5 @@
+#main_body{
+    height: 100%;
+    width: calc(100% - 560px);
+    background:#000;
+}
